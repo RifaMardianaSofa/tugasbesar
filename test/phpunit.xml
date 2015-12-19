@@ -1,0 +1,13 @@
+<phpunit bootstrap="bootstrap.php"
+	colors="true"
+	convertErrorsToException="True"
+	convertNoticeToException="True"
+	convertWarningsToException="True"
+	processIsolation="false"
+	stopOnFailure="false"
+	verbose="false">
+
+	<logging>
+		<!--log type="coverge-html" target="report" charset="UTF-8" highlight="false" lowUpperBound="25" highLowerBound="70" /-->
+	</logging>
+</phpunit>
